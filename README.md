@@ -39,3 +39,7 @@ Things you may want to cover:
 *ANOTHER TEST FROM ANOTHER IN ANOTHER TIME 
 
 *I'm in love with the COCO
+
+telnet to towel.blinkenlights.nl in your terminal as per below
+
+telnet towel.blinkenlights.nl 
