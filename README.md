@@ -1,6 +1,7 @@
 # README
 
 1) Sophie writes for the first round. 
+2) Shino writes for the second round. 
 
 
 This README would normally document whatever steps are necessary to get the
