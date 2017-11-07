@@ -33,6 +33,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 
 *TEST FILES
 
@@ -43,3 +44,5 @@ Things you may want to cover:
 telnet to towel.blinkenlights.nl in your terminal as per below
 
 telnet towel.blinkenlights.nl 
+=======
+>>>>>>> 2d8ddbe982594553c50222ad87b1c2f2c69bd2bb
