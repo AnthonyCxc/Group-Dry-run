@@ -1,5 +1,8 @@
 # README
 
+1) Sophie writes for the first round. 
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
