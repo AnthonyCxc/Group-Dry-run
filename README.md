@@ -33,9 +33,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-*TEST FILES
-
-*ANOTHER TEST FROM ANOTHER IN ANOTHER TIME 
-
-*I'm in love with the COCO
