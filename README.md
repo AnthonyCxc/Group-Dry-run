@@ -2,7 +2,7 @@
 
 1) Sophie writes for the first round. 
 2) Shino writes for the second round. 
-
+3) Alex pray to harambe for the third round.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
